@@ -1,0 +1,15 @@
+.style:hover {
+    background-color: rgb(251, 163, 10);
+    /* box-shadow: 2px 2px 4px rgb(251, 163, 10); */
+    text-decoration: none;
+    /* padding: 20px; */
+    /* height: 40px; */
+}
+
+.iconstyle {
+    height: 40%;
+    width: 40%;
+    padding-left: 30%;
+    padding-top: 5px;
+    color: green;
+}

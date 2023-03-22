@@ -1,0 +1,18 @@
+    .center {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .style {
+        margin-top: 5px;
+        color: white;
+        height: 50px;
+        /* text-decoration: none; */
+    }
+    
+    .fontstyle {
+        color: yellow;
+        font-size: 25px;
+        font-family: 'Satisfy', cursive;
+    }
